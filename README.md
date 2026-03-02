@@ -29,10 +29,10 @@
 
 ### 📱 Flutter Mobile App
 
-| 🔍 Tìm kiếm sách | 📊 Thống kê & Báo cáo | 📤 Xuất PDF/Excel |
-|:-:|:-:|:-:|
-| ![Search](docs/app_search.jpg) | ![Statistics](docs/app_statistics.jpg) | ![Export](docs/app_export.jpg) |
-| *Tìm kiếm theo tên sách, người mượn* | *Dashboard tổng quan: mượn, trả, quá hạn* | *Xuất báo cáo PDF & Excel* |
+| 🔍 Tìm kiếm sách | 📋 Mượn/Trả sách | 📊 Thống kê & Báo cáo | 📤 Xuất PDF/Excel |
+|:-:|:-:|:-:|:-:|
+| ![Search](docs/app_search.jpg) | ![Borrow](docs/app_borrow_return.jpg) | ![Statistics](docs/app_statistics.jpg) | ![Export](docs/app_export.jpg) |
+| *Tìm kiếm theo tên sách, người mượn* | *Danh sách mượn/trả, trạng thái quá hạn* | *Dashboard tổng quan: mượn, trả, quá hạn* | *Xuất báo cáo PDF & Excel* |
 
 ---
 
