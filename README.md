@@ -19,16 +19,28 @@
 
 ## 📸 Demo
 
-<!-- 
-🔽 THÊM HÌNH ẢNH / VIDEO DEMO TẠI ĐÂY 🔽
-Ví dụ:
-![App Demo](docs/app_demo.gif)
-![IoT Station](docs/iot_station.jpg)
--->
+<div align="center">
 
-> ⚠️ *Vui lòng thêm ảnh/video demo ứng dụng và trạm IoT tại đây.*
->
-> ⚠️ *Please add app & IoT station demo images/videos here.*
+### 🤖 IoT Station / Trạm Quét Tự Động
+![IoT Station](docs/iot_station.jpg)
+*Trạm quét thẻ RFID tự động: ESP32 + MFRC522 + LCD 16x2 — "Ready! Scan Card"*
+
+---
+
+### 📱 Flutter Mobile App
+
+| 🔍 Tìm kiếm sách | 📊 Thống kê & Báo cáo | 📤 Xuất PDF/Excel |
+|:-:|:-:|:-:|
+| ![Search](docs/app_search.jpg) | ![Statistics](docs/app_statistics.jpg) | ![Export](docs/app_export.jpg) |
+| *Tìm kiếm theo tên sách, người mượn* | *Dashboard tổng quan: mượn, trả, quá hạn* | *Xuất báo cáo PDF & Excel* |
+
+---
+
+### 📄 Báo Cáo Thống Kê / PDF Report
+![PDF Report](docs/pdf_report.jpg)
+*Báo cáo thống kê thư viện tự động: tổng quan, top người mượn, thống kê theo tháng*
+
+</div>
 
 ---
 
