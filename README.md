@@ -27,6 +27,14 @@
 
 ---
 
+### 🎬 Video Demo
+
+[![Video Demo](https://img.shields.io/badge/▶️_Video_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19Zx5QC66hEfff_1rrhyOmN_bPsWFWpY2?usp=sharing)
+
+📺 [**Xem Video Demo đầy đủ tại đây**](https://drive.google.com/drive/folders/19Zx5QC66hEfff_1rrhyOmN_bPsWFWpY2?usp=sharing)
+
+---
+
 ### 📱 Flutter Mobile App
 
 | 🔍 Tìm kiếm | 📋 Mượn/Trả | ⚠️ Quá hạn |
