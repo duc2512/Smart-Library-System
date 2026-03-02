@@ -53,6 +53,12 @@
 ![PDF Report](docs/pdf_report.jpg)
 *Báo cáo thống kê thư viện tự động: tổng quan, top người mượn, thống kê theo tháng*
 
+---
+
+### 🤖 AI Trợ Lý Thủ Thư / AI Library Assistant
+![AI Chatbot](docs/app_ai_chatbot.png)
+*Chatbot AI hỗ trợ tra cứu thống kê, phân tích dữ liệu mượn/trả real-time*
+
 </div>
 
 ---
